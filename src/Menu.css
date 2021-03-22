@@ -1,0 +1,35 @@
+
+.container{
+    background-color: rgb(21, 138, 122);
+    border-bottom: solid 2px rgb(153, 60, 60);
+    padding: 8px;
+}
+
+
+.container .subcontainer{
+    width: 300px;
+    margin: 0 auto;
+    
+}
+
+.logo{
+    color: rgb(10, 4, 4);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    width: 150px;
+   
+}
+.search{
+    width: 520px;
+}
+
+.search input{
+    width: 265px;
+    padding: 10px;
+    font-size: 20px;
+}
+.actions{
+    width: 100px;
+}
+

@@ -1,0 +1,31 @@
+.item{
+    display: inline-block;
+    padding: 10px;
+    margin: 15px;
+    width: 200px;
+}
+.item .image img{
+    height: 340px;
+}
+
+.item .title{
+    font-weight: bold;
+    font-size: 20px;
+    height: 60px;
+}
+.item .actions{
+    width: 100%;
+    border-top: solid 1px #bbb;
+    padding: 5px 0;
+    margin-top: 10px;
+}
+.item .actions button{
+    border: 0;
+    border-radius: 3px;
+    background-color:rgb(232, 78, 78);
+    font-style: inherit;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+}
